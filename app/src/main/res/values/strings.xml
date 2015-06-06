@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UseBoundService</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="msgBound">Service ist gebunden!</string>
+    <string name="msgUnbound">Service ist NICHT gebunden!</string>
+    <string name="msgNoOpPossible">Nicht möglich!</string>
+</resources>
